@@ -9,7 +9,9 @@
 - Vision general de Poweshell
   - Características
     - core
-  -ISE
+    
+  -Ise
+  
   -Avanzado
     -WSL
 
@@ -21,3 +23,13 @@
 ``` Powershell
   Get-Command -Noun Process
 ``` 
+
+-------------------
+-------------------
+
+## Cdmlets para administracion
+-Directorio Activo
+-REd (ejercicio cliente-servidor UDP)
+-Otros Cdmlets
+
+
