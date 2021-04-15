@@ -13,7 +13,6 @@
   - Avanzado
     - WSL
 
-
 ## Vision general de powershell
 
 ## Cmdlets
@@ -27,12 +26,13 @@
 
 ## Cdmlets para administracion
 - Directorio Activo
-- REd (ejercicio cliente-servidor UDP)
+- Red (ejercicio cliente-servidor UDP)
 - Otros Cdmlets
 
 ## Otros Cdmlets
 ``` todos los cdmlets
   Get-Cdmlets *
 ``` 
+
 
 
