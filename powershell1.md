@@ -8,12 +8,10 @@
 
 - Vision general de Poweshell
   - Características
-    - core
-    
-  -Ise
-  
-  -Avanzado
-    -WSL
+    - core  
+  - Ise
+  - Avanzado
+    - WSL
 
 
 ## Vision general de powershell
